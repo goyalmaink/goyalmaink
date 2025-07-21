@@ -1,22 +1,24 @@
 <h1 align="center">Hi, I'm Mayank Goel 👋</h1>
 
 <p align="center">
-  💻 Software Developer | Backend Engineer | Full-Stack Enthusiast  
+💻 Software Developer | Backend Engineer | Full-Stack Enthusiast | API Security Explorer
 </p>
 
 <p align="center">
-  <a href="mailto:mayankgoel1421@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/goyalmaink">🔗 LinkedIn</a> • 
-  <a href="https://github.com/goyalmaink">🐙 GitHub</a>
+<a href="mailto:mayankgoel1421@gmail.com">📧 Email</a> • 
+<a href="https://linkedin.com/in/goyalmaink">🔗 LinkedIn</a> • 
+<a href="https://github.com/goyalmaink">🐙 GitHub</a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-🎓 I'm currently pursuing B.Tech in Computer Science at BVCOE, New Delhi (GPA: 8.2)  
-🛠️ Passionate about building scalable full-stack systems and solving real-world backend challenges  
-📚 Currently exploring: **SignalR**, **SQL optimization**, and **cloud deployment**
+🎓 Computer Science Undergrad @ BVCOE (GPA: 8.2)  
+🛠 Passionate about building scalable, production-ready full-stack solutions  
+🧩 Strong interest in real-time systems, backend optimization, and API security  
+💬 Always open to collaboration, mentorship, and new tech exploration  
+🎯 Career Goals: Full Stack Developer | Backend Engineer | Cloud Developer  
 
 ---
 
@@ -30,75 +32,88 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
 ---
 
-### 💼 Work Experience Highlights
+### 🏆 Internship Highlights
 
-**🔹 Arbro Pharmaceuticals – Software Developer Intern**  
-Built a real-time internal chat system with **ASP.NET + SignalR** to improve communication speed by 60%  
-Reduced misallocation by 30% with a smart skill-based filter system  
-Optimized SQL queries and C# backend to reduce page load time by 40%  
+#### 🔹 Arbro Pharmaceuticals – ASP.NET Developer Intern
+- Developed real-time chat app using SignalR, boosting communication by 60%
+- Reduced skill-based allocation errors by 30% using custom filter logic
+- Cut backend latency by 40% by optimizing SQL queries and services
 
-**🔹 ClickMekcha – Frontend Developer Intern**  
-Built REST APIs for real-time data flow, boosting response time by 35%  
-Developed dashboards and MongoDB data streams to reduce training time and enhance decision-making
+#### 🔹 ClickMekcha – Frontend Developer Intern
+- Created API-driven dashboards and live data flows using Node.js and MongoDB
+- Reduced app response time by 35% and improved decision-making insights by 25%
 
-**🔹 Aadi Foundation – Web Developer Intern**  
-Designed a responsive portfolio site in React  
-Streamlined cloud deployment with GitHub Codespaces and Azure, cutting setup time by 50%
-
----
-
-### 🏆 Key Projects
-
-#### 📊 Real Estate App (Full-Stack)
-> React, Node.js, MongoDB, Prisma, Web Sockets  
-- Enabled property listing, search, and real-time messaging  
-- Enhanced search efficiency by 40%  
-- Built chat system & lead-tracking for faster sales cycle  
-
-#### 💬 AskAura (AI Chatbot using Gemini API)
-> React.js, Express.js, MongoDB, Gemini APIs  
-- AI-powered chatbot with NLP and scalable design  
-- Reduced response latency by 35%  
-- Designed conversational UI in Figma, boosting user engagement
-
-#### 🔐 API Threat Detection (ML + OWASP)
-> Python, TensorFlow, OWASP ZAP, JSON  
-- Achieved 95% accuracy in API threat prediction  
-- Integrated MFA and reduced account takeover risk by 90%
+#### 🔹 Aadi Foundation – Web Developer Intern
+- Built portfolio website with React, improving usability by 40%
+- Used GitHub Codespaces + Azure for CI/CD, reducing setup time by 50%
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Key Projects
+
+#### 📊 Real Estate Web Platform (MERN + Prisma + WebSocket)
+- List, filter, and chat features with buyer-seller integration  
+- Reduced lead closure time by 15 days and improved search by 40%  
+
+#### 🤖 AskAura – AI Chatbot (Gemini API + NLP)
+- Real-time NLP chat with Gemini API, scalable backend design  
+- Enhanced UI in Figma to boost user engagement by 50%  
+
+#### 🔐 API Threat Detection System (ML + OWASP ZAP)
+- 95% accurate threat detection using TensorFlow and real API attack data  
+- Reduced account takeover risk by 90%, improved security onboarding
+
+---
+
+### 🧠 Additional Academic Projects
+- Lead Management Dashboard (ASP.NET, SQL Server, SignalR)  
+- Expense Tracker (React + Firebase)  
+- Online Learning Platform with student dashboard and course analytics  
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalmaink&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=goyalmaink&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goyalmaink&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=goyalmaink&theme=radical" />
 </p>
 
 ---
 
-### 🏅 Achievements
+### 🥇 Achievements & Certifications
 
-- 🥇 Winner - BVCOE Treasure Hunt: Top 3 finish out of 150+ teams  
-- 🧠 Organizer - WIEHACK 2024 Hackathon (2000+ participants)  
-- 🔰 Outreach Lead @ Google Developer Student Club (2024-25)
-
----
-
-### 📌 Let’s Connect!
-
-📫 Email: **mayankgoel1421@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/goyalmaink](https://linkedin.com/in/goyalmaink)  
-🌐 Portfolio (coming soon...)
+- 🥇 Winner - “Pause” BVCOE Treasure Hunt (Top 3 among 150+ teams)
+- 🏆 Organizer - WIEHACK 2024 (2000+ online registrations)
+- 📜 Google Cloud Essentials – Qwiklabs
+- 📜 Introduction to APIs – Postman Academy
+- 📜 JavaScript Algorithms – freeCodeCamp
 
 ---
 
-⭐ If you liked my profile or work, feel free to connect and collaborate!
+### 🤝 Communities
+
+- 🔰 Outreach Lead @ GDSC BVCOE (2024–25)
+- 📣 Hosted 10+ tech events, helped 100+ students
+- 🤖 Hackathon participant – Built live projects in 24-48hr sprints
+
+---
+
+### 📫 Let’s Connect
+
+- Email: **mayankgoel1421@gmail.com**
+- LinkedIn: [linkedin.com/in/goyalmaink](https://linkedin.com/in/goyalmaink)
+- Portfolio: *Coming Soon...*
+
+---
+
+⭐ *Thanks for stopping by! If you like what you see, consider following or reaching out for collaboration.*
