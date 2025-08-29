@@ -81,15 +81,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goyalmaink&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=goyalmaink&theme=radical" />
-</p>
-
----
-
 ### 🥇 Achievements & Certifications
 
 - 🥇 Winner - “Pause” BVCOE Treasure Hunt (Top 3 among 150+ teams)
